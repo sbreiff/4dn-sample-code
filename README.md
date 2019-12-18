@@ -10,6 +10,7 @@ pip install dcicutils
 
 Use of a virtual environment is recommended.
 
+----------
 
 ### Notebook Contents
 
