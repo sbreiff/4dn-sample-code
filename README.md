@@ -12,7 +12,7 @@ Use of a virtual environment is recommended.
 
 ----------
 
-### Notebook Contents
+## Notebook Contents
 
 **Downloading 4DN Contact Matrices.ipynb**
 
